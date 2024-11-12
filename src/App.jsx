@@ -5,6 +5,7 @@ import LocomotiveScroll from 'locomotive-scroll';
 import { useEffect, useRef, useState } from 'react';
 import NavBar from './Components/NavBar';
 import gsap from 'gsap';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
 
@@ -163,6 +164,7 @@ function App() {
         >
           scroll
         </p>
+        <Analytics />
       </div>
     </>
   );
