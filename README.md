@@ -1,4 +1,4 @@
-#Note 
+Note 
 
 
 this is just landing page clone of thirthysixstudios website and this clone is not that reposponsive that some devices because i made this clone on my laptop i didn't make it responsive.
